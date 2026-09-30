@@ -1,0 +1,12 @@
+# This is a CODEOWNERS file for the battery-monorepo
+# See https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Global code owners
+* @dylanwfoley
+
+# You can add specific patterns below as your monorepo grows
+# Examples:
+# /packages/core/ @dylanwfoley
+# /packages/api/ @dylanwfoley
+# /packages/ui/ @dylanwfoley
+# /docs/ @dylanwfoley
